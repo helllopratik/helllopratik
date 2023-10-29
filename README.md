@@ -2,7 +2,7 @@
   <img style="width:14rem; height:auto" src="https://cdn.dribbble.com/users/235897/screenshots/1712148/media/49c8018062cc43eab67b801c6cb459e8.gif"/>
 </p>
 
-<h1 align="center">Hi, I'm Pratik Gondane<img width="30px" src="[https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif](https://64.media.tumblr.com/tumblr_lr2m4lYdhY1qlr140o1_500.gifv)"></h1>
+<h1 align="center">Hi, I'm Pratik Gondane<img width="30px" src="https://64.media.tumblr.com/tumblr_lr2m4lYdhY1qlr140o1_500.gif"></h1>
 <h3 font-size="20" align="center"></h3>
 
 
