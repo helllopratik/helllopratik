@@ -16,7 +16,9 @@
     <a  href="https://www.linkedin.com/in/pratik-gondane-758474196/" target="_blank">
       <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="example"/>
     </a>
-
+    <a  href="https://www.instagram.com/hellopratik" target="_blank">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Instagram-purple" alt="example"/>
+    </a>
    
   </div>
  
