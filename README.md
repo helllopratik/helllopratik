@@ -2,7 +2,7 @@
   <img style="width:14rem; height:auto" src="https://64.media.tumblr.com/tumblr_lr2m4lYdhY1qlr140o1_500.gif"/>
 </p>
 
-<h1 align="center">Hi, I'm Pratik Gondane<img width="30px" src=""></h1>
+<h1 align="center">Hi, I'm Pratik Gondane</h1>
 <h3 font-size="20" align="center"></h3>
 
 
