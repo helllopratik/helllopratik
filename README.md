@@ -33,10 +33,31 @@
 </div>
 
 ----
+### ![](https://cdn.jsdelivr.net/gh/primer/octicons/icons/code-24.svg "Using Operating Systems") Using Operating Systems
 
+![](http://img.shields.io/static/v1?style=for-the-badge&message=Android&color=eeeeee&logo=Android&logoColor=3ddb85&label= "Android")
+
+### ![](https://cdn.jsdelivr.net/gh/primer/octicons/icons/rocket-24.svg "IDEs / Editors") IDEs / Editors
+
+![](http://img.shields.io/static/v1?style=for-the-badge&message=Visual%20Studio%20Code&color=eeeeee&logo=VisualStudioCode&logoColor=0078D6&label= "Visual Studio Code")
+![](http://img.shields.io/static/v1?style=for-the-badge&message=Android%20Studio&color=eeeeee&logo=AndroidStudio&logoColor=000000&label= "Nano")
+
+### ![](https://cdn.jsdelivr.net/gh/primer/octicons/icons/device-desktop-24.svg "Desktop Operating Systems") Operating Systems
+
+![](http://img.shields.io/static/v1?style=for-the-badge&message=Windows%2011&color=eeeeee&logo=Windows&logoColor=0078D6&label= "Windows 11")
+![](http://img.shields.io/static/v1?style=for-the-badge&message=Zorin%20Core&color=eeeeee&logo=zorin&logoColor=bule&label= "Zorin Core")
+
+### 📱 Devices
+[![Lenovo K10 Note](http://img.shields.io/badge/Lenovo%20K10%20Note-ED9121?style=flat-square&logo=lenovo&logoColor=FFFFFF&labelColor=ED9121)](https://lenovomobilesupport.lenovo.com/in/en/products/phones/k-series/k10-note)
+[![Samsung A34 5G](http://img.shields.io/badge/Samsung%20A34%205G-4F4F4F?style=flat-square&logo=samsung&logoColor=FFFFFF&labelColor=4F4F4F)](https://www.samsung.com/uk/smartphones/galaxy-a/galaxy-a34-5g-lime-256gb-sm-a346blgeeub/)
+
+
+![](https://cdn.jsdelivr.net/gh/primer/octicons/icons/mail-24.svg "Chat With Me") Chat With Me
+- 📫 Email: pratikgondane07@outlook.com
 <p align="center">
   <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
     alt="example" />
 </p>
+
 
 ------
