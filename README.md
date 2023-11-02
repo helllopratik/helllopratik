@@ -40,7 +40,7 @@
 ### ![](https://cdn.jsdelivr.net/gh/primer/octicons/icons/rocket-24.svg "IDEs / Editors") IDEs / Editors
 
 ![](http://img.shields.io/static/v1?style=for-the-badge&message=Visual%20Studio%20Code&color=eeeeee&logo=VisualStudioCode&logoColor=0078D6&label= "Visual Studio Code")
-![](http://img.shields.io/static/v1?style=for-the-badge&message=Android%20Studio&color=eeeeee&logo=AndroidStudio&logoColor=000000&label= "Nano")
+![](http://img.shields.io/static/v1?style=for-the-badge&message=Android%20Studio&color=eeeeee&logo=AndroidStudio&logoColor=000000&label= "Android Studio")
 
 ### ![](https://cdn.jsdelivr.net/gh/primer/octicons/icons/device-desktop-24.svg "Desktop Operating Systems") Operating Systems
 
