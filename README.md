@@ -53,7 +53,7 @@
 
 
 ![](https://cdn.jsdelivr.net/gh/primer/octicons/icons/mail-24.svg "Chat With Me") Chat With Me
-- 📫 Email: pratikgondane07@outlook.com
+- 📫 Email: hellopratik@proton.me
 <p align="center">
   <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
     alt="example" />
