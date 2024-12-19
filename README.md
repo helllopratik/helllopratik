@@ -25,13 +25,14 @@
 </div>
 
 
-
+<!-- 
 <div align="center">
 <h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
+
   
 [![](https://github-readme-streak-stats.herokuapp.com/?user=helllopratik&theme=material-palenight)](https://github.com/helllopratik)
 </div>
-
+-->
 ----
 ### ![](https://cdn.jsdelivr.net/gh/primer/octicons/icons/code-24.svg "Using Operating Systems") Mobile Operating Systems
 
