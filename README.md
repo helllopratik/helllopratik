@@ -67,7 +67,7 @@
   </a>
 </p>
 
-![Snake Animation](https://raw.githubusercontent.com/helllopratik/output/main/github-contribution-grid-snake.svg)
+<!--[Snake Animation](https://raw.githubusercontent.com/helllopratik/output/main/github-contribution-grid-snake.svg) -->
 
 ---
 
