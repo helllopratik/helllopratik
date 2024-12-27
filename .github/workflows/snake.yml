@@ -5,22 +5,25 @@ on:
     branches:
       - main
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 0 * * *" # Runs daily at midnight UTC
 
 jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
+      # Checkout the repository
       - name: Checkout repository
         uses: actions/checkout@v3
 
+      # Generate the snake animation
       - name: Generate snake animation
         uses: Platane/snk@v2
         with:
-          github_user_name: helllopratik
+          github_user_name: helllopratik # Replace with your GitHub username
           svg_out_path: dist/github-contribution-grid-snake.svg
 
-      - name: Upload to the output branch
+      # Push the generated SVG to the output branch
+      - name: Push snake animation to output branch
         uses: peaceiris/actions-gh-pages@v3
         with:
           personal_token: ${{ secrets.GITHUB_TOKEN }}
