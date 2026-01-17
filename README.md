@@ -80,14 +80,14 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github.com/helllopratik/helllopratik/blob/main/profile-summary-card-output/material-palenight/2-most-commit-language.svg" alt="Most Commit Language" />
-  <img src="https://github.com/helllopratik/helllopratik/blob/main/profile-summary-card-output/material-palenight/3-stats.svg" alt="Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=helllopratik&show_icons=true&theme=material-palenight&hide_border=true" height="165" alt="GitHub Stats" />
+  
+  <img src="https://github-readme-streak-stats-three.vercel.app/?user=helllopratik&theme=material-palenight&hide_border=true" height="165" alt="Streak Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github.com/helllopratik/helllopratik/blob/main/profile-summary-card-output/material-palenight/0-profile-details.svg" alt="Profile Details" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=helllopratik&layout=compact&theme=material-palenight&hide_border=true" alt="Top Languages" />
 </p>
-
 ---
 
 ## 📬 Contact Me
