@@ -80,12 +80,12 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=helllopratik&show_icons=true&theme=material-palenight&hide_border=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=helllopratik&theme=material-palenight&hide_border=true" height="165"/>
+  <img src="https://github.com/helllopratik/helllopratik/blob/main/profile-summary-card-output/material-palenight/2-most-commit-language.svg" alt="Most Commit Language" />
+  <img src="https://github.com/helllopratik/helllopratik/blob/main/profile-summary-card-output/material-palenight/3-stats.svg" alt="Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=helllopratik&layout=compact&theme=material-palenight&hide_border=true"/>
+  <img src="https://github.com/helllopratik/helllopratik/blob/main/profile-summary-card-output/material-palenight/0-profile-details.svg" alt="Profile Details" />
 </p>
 
 ---
