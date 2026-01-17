@@ -1,93 +1,122 @@
+<!-- ===================== WELCOME ===================== -->
 <p align="center">
-  <img style="width:14rem; height:auto" src="https://64.media.tumblr.com/tumblr_lr2m4lYdhY1qlr140o1_500.gif" alt="Header GIF"/>
+  <img src="https://64.media.tumblr.com/tumblr_lr2m4lYdhY1qlr140o1_500.gif" width="220" alt="Header GIF"/>
 </p>
 
-<h1 align="center">Hi, I'm Pratik Gondane 👋</h1>
-<h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=500&color=3FDBF8&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Welcome+to+my+profile;Passionate+about+Mobile+OS;Always+Exploring+New+Tech!" alt="Typing Animation"/>
-</h3>
+<h1 align="center">Hi 👋, I'm Pratik Gondane</h1>
+
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=600&color=3FDBF8&center=true&vCenter=true&width=600&lines=Computer+Science+Engineer;Android+%7C+Linux+(Zorin+OS)+%7C+Windows;System+Level+Explorer;Always+Learning+New+Things" 
+    alt="Typing Animation"
+  />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=helllopratik&label=Profile%20Views&color=3FDBF8&style=flat-square"/>
+  <img src="https://img.shields.io/github/followers/helllopratik?label=Followers&style=flat-square&color=3FDBF8"/>
+</p>
 
 ---
 
-### 🚀 About Me
+## 🚀 About Me
+
 - 🎓 **Diploma in Computer Engineering** (2019)  
-- 🎓 **Bachelor's in Computer Science and Engineering** (2022)  
-- 🎓 **Master's in Computer Science and Engineering** (2024)  
-- 🐦 **Bird Lover**  
-- 🎮 **Gaming Enthusiast**  
+- 🎓 **B.E. in Computer Science & Engineering** (2022)  
+- 🎓 **M.E. in Computer Science & Engineering** (2024)  
+
+### 💡 Passionate about
+- 📱 Mobile Operating Systems (Android internals & customization)
+- 🐧 Linux desktops (Zorin OS, drivers, system tweaking)
+- 🧠 Low-level system understanding
+- 🎮 Gaming & performance tuning
+- 🐦 Bird photography & nature  
+
+> *I enjoy breaking systems just to understand how they work — and fixing them better.*
 
 ---
 
-### 📱 Devices I Use
+## 🧠 Tech Stack & Interests
+
+### 👨‍💻 Programming & Scripting
 <p align="center">
-  <div>
-    <a href="https://lenovomobilesupport.lenovo.com/in/en/products/phones/k-series/k10-note">
-      <img src="http://img.shields.io/badge/Lenovo%20K10%20Note-ff0505?style=flat-square&logo=Lenovo&logoColor=FFFFFF&labelColor=0595ff" alt="Lenovo K10 Note"/>
-    </a>
-    <a href="https://www.samsung.com/uk/smartphones/galaxy-a/galaxy-a34-5g-lime-256gb-sm-a346blgeeub/">
-      <img src="http://img.shields.io/badge/Samsung%20A34%205G-0595ff?style=flat-square&logo=Samsung&logoColor=FFFFFF&labelColor=4F4F4F" alt="Samsung A34 5G"/>
-    </a>
-  </div>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+</p>
+
+### 🧰 Tools & Platforms
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code"/>
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=black"/>
 </p>
 
 ---
 
-### 💻 IDEs / Editors I Use
+## 🖥️ Operating Systems & Platforms (What I Work On)
+
 <p align="center">
-  <div>
-    <a href="https://code.visualstudio.com/" target="_blank">
-      <img src="http://img.shields.io/static/v1?style=for-the-badge&message=Visual%20Studio%20Code&color=eeeeee&logo=VisualStudioCode&logoColor=0078D6&label=" alt="Visual Studio Code"/>
-    </a>
-    <a href="https://developer.android.com/studio" target="_blank">
-      <img src="http://img.shields.io/static/v1?style=for-the-badge&message=Android%20Studio&color=eeeeee&logo=AndroidStudio&logoColor=000000&label=" alt="Android Studio"/>
-    </a>
-  </div>
+  <img src="https://img.shields.io/badge/Zorin_OS-15A6F0?style=for-the-badge&logo=zorin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Windows_11-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
 </p>
 
 ---
 
-### 🖥️ Desktop Operating Systems
+## 📱 Devices I Use (Hardware)
+
 <p align="center">
-  <div>
-    <a href="https://www.microsoft.com/en-us/windows" target="_blank">
-      <img src="http://img.shields.io/static/v1?style=for-the-badge&message=Windows%2011&color=eeeeee&logo=Windows&logoColor=0078D6&label=" alt="Windows 11"/>
-    </a>
-    <a href="https://zorin.com/os/" target="_blank">
-      <img src="http://img.shields.io/static/v1?style=for-the-badge&message=Zorin%20Core&color=eeeeee&logo=zorin&logoColor=blue&label=" alt="Zorin Core"/>
-    </a>
-  </div>
+  <img src="https://img.shields.io/badge/Lenovo_K10_Note-ff0505?style=for-the-badge&logo=lenovo&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Samsung_Galaxy_A34_5G-1428A0?style=for-the-badge&logo=samsung&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Lenovo_Tab_Plus_(TB351FU)-E2231A?style=for-the-badge&logo=lenovo&logoColor=white"/>
 </p>
 
 ---
 
-### 📊 Github Stats
+## 📊 GitHub Analytics
+
 <p align="center">
-  <a href="https://github.com/helllopratik">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=helllopratik&theme=material-palenight" alt="GitHub Streak Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=helllopratik&show_icons=true&theme=material-palenight&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=helllopratik&theme=material-palenight&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=helllopratik&layout=compact&theme=material-palenight&hide_border=true"/>
+</p>
+
+---
+
+## 📬 Contact Me
+
+<p align="center">
+  <a href="mailto:hellopratik@proton.me">
+    <img src="https://img.shields.io/badge/ProtonMail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white"/>
   </a>
 </p>
 
-<!--[Snake Animation](https://raw.githubusercontent.com/helllopratik/output/main/github-contribution-grid-snake.svg) -->
+<p align="center">
+  <b>📧 hellopratik@proton.me</b>
+</p>
 
 ---
 
-### 📧 Contact Me
+## 🌐 Connect With Me
+
 <p align="center">
-  <a href="mailto:hellopratik@proton.me" target="_blank">
-    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <a href="https://www.linkedin.com/in/pratik-gondane-758474196/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="https://www.instagram.com/hellopratik">
+    <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
 
-<h4 align="center" style="font-size: 18px; font-weight: 600;">hellopratik@proton.me</h4>
-
 ---
 
-### 💬 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/pratik-gondane-758474196/" target="_blank">
-    <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.instagram.com/hellopratik" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-purple.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
+  <i>“Learn deeply. Break responsibly. Build fearlessly.”</i>
 </p>
