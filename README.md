@@ -47,6 +47,7 @@
   <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
 </p>
 
+---
 ### 🧰 Tools & Platforms
 <p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
@@ -88,8 +89,8 @@
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=helllopratik&layout=compact&theme=material-palenight&hide_border=true" alt="Top Languages" />
 </p>
----
 
+---
 ## 📬 Contact Me
 
 <p align="center">
