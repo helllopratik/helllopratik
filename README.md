@@ -23,7 +23,7 @@
 
 - 🎓 **Diploma in Computer Engineering** (2019)  
 - 🎓 **B.E. in Computer Science & Engineering** (2022)  
-- 🎓 **M.E. in Computer Science & Engineering** (2024)  
+- 🎓 **M.Tech. in Computer Science & Engineering** (2024)  
 
 ### 💡 Passionate about
 - 📱 Mobile Operating Systems (Android internals & customization)
